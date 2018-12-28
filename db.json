@@ -1,0 +1,60 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "city": "Paris",
+      "country": "France",
+      "image": "https://theflightfinder.com/wp-content/uploads/2017/12/paris.jpg",
+      "yearvisited": "2014"
+    },
+    {
+      "id": 2,
+      "city": "Barcelona",
+      "country": "Spain",
+      "image": "https://media.timeout.com/images/103855471/630/472/image.jpg",
+      "yearvisited": "2014"
+    },
+    {
+      "id": 3,
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tel_Aviv_Coastline.jpg/1200px-Tel_Aviv_Coastline.jpg",
+      "yearvisited": "2017"
+    },
+    {
+      "id": 4,
+      "city": "Jerusalem",
+      "country": "Israel",
+      "image": "https://www.worldtravelguide.net/wp-content/uploads/2017/09/shu-HERO-Middle-East-Israel-Jerusalem-Roofs-of-Old-City-with-Holy-Sepulcher-Church-Dome-316014836-Rostislav-Ageev-1440x823.jpg",
+      "yearvisited": "2017"
+    },
+    {
+      "id": 5,
+      "city": "Vienna",
+      "country": "Austria",
+      "image": "https://www.tripsavvy.com/thmb/JB9rLf3FInJ5QBFf_xfnOPNI3nA=/4000x2826/filters:no_upscale():max_bytes(150000):strip_icc()/Vienna-Hofburg-Michaelerplatz-Getty-5a6dd8d4c5542e0036a6f4eb.jpg",
+      "yearvisited": "2016"
+    },
+    {
+      "id": 6,
+      "city": "Budapest",
+      "country": "Hungary",
+      "image": "https://www.swedishnomad.com/wp-content/images/2016/05/Budapest-guide.jpg",
+      "yearvisited": "2016"
+    },
+    {
+      "city": "Denver",
+      "country": "United States",
+      "image": "https://images1.westword.com/imager/u/745xauto/8854397/denver_skyline_by_jeffrey_beal_instagram_2017.jpg",
+      "yearvisited": "2018",
+      "id": 7
+    },
+    {
+      "city": "Seattle",
+      "country": "United States",
+      "image": "https://www.northeastern.edu/geo/wp-content/uploads/2018/10/seattle-washington.jpg",
+      "yearvisited": "2013",
+      "id": 8
+    }
+  ]
+}
