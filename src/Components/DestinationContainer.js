@@ -61,10 +61,10 @@ class DestinationContainer extends Component {
     <DestinationCard key={destinationObj.id} destinationObj={destinationObj} showClickHandler={this.showClickHandler} deleteHandler={this.deleteHandler}/> )
     return (
       <div>
-      <FilterDestinations destinations={this.state.destinations}/>
-      {destinationCards}
-      <DestinationForm submitFormHandler={this.submitFormHandler}/>
-      <DestinationShown destinationShown={this.state.destinationShown}/>
+        <FilterDestinations destinations={this.state.destinations}/>
+        <DestinationShown destinationShown={this.state.destinationShown}/>
+        <div className="destinationCards"> {destinationCards} </div>
+        <DestinationForm submitFormHandler={this.submitFormHandler}/>
       </div>
     );
   }

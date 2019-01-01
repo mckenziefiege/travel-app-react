@@ -1,39 +1,38 @@
-.App {
+.destinationcard {
+  width: 20vw;
+  padding: 10px;
+  border-width: 1px;
+}
+
+.destinationShownDiv {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+/* .newDestinationForm {
+  float: left;
+} */
+
+.destinationCards {
+  width: 20vw;
+  background-color: #f1f1f1;
+  position: absolute;
+  height: 100%;
+  overflow: auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* .container {
+  display: grid;
+  grid-row-gap: 20px;
+  grid-template-columns: auto auto auto;
+} */
+
+/* .item1 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  margin-left: 50px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.destinationcard {
-  width: 500px;
-  padding: 20px;
-  border-style: dashed;
-  border-width: 1px;
-}
+.item2 {
+  grid-column-start: 3;
+  grid-column-end: 3;
+} */
